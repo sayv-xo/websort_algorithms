@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="websort:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/websort_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="websort" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.34" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.34" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.14.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.14.2" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1" />
+          <element id="library" level="project" name="Maven: org.springframework.hateoas:spring-hateoas:2.3.0" />
+          <element id="library" level="project" name="Maven: org.springframework.plugin:spring-plugin-core:3.0.0" />
+          <element id="library" level="project" name="Maven: com.jayway.jsonpath:json-path:2.9.0" />
+          <element id="library" level="project" name="Maven: net.minidev:json-smart:2.5.0" />
+          <element id="library" level="project" name="Maven: net.minidev:accessors-smart:2.5.0" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:9.3" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:2.0.13" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="websort/web/Web" />
+      <element id="javaee-facet-resources" facet="websort/web/Web2" />
+    </root>
+  </artifact>
+</component>
